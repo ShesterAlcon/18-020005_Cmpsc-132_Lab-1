@@ -1,1 +1,5 @@
-# 18-020005_Cmpsc-132_Lab-1
+-Blein Shester P. Alcon
+-BSCS II A
+-02,04,2020
+-LAB ACTIVITY 1
+-My First GitHub Commit!!!
